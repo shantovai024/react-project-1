@@ -1,0 +1,9 @@
+.menu-bar{
+     list-style: none;
+    
+}
+.menu-bar li {
+    padding: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+}
